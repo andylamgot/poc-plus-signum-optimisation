@@ -1,0 +1,9 @@
+{
+  "plot_size_bytes": 6582355.4,
+  "plot_size_mb": 6.277423286437989,
+  "deadline_s": 200.0,
+  "commitment_ratio": 0.3375,
+  "energy_per_block_j": 1011.651912195,
+  "energy_per_block_wh": 0.28101442005416666,
+  "status": "Optimal"
+}
